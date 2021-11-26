@@ -17,6 +17,7 @@
   <img align="center" alt="Mirelly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mirelly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mirelly-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Mirelly-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/912906113580662838/913591184000167946/Webp.net-gifmaker.gif">
 
 </div>
   
