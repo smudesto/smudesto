@@ -1,7 +1,6 @@
 ### <strong>Hi there</strong> 👋
 
-- 🌱 I’m currently learning Python
-- 😄 Pronouns:she/her
+
 
 <div align="center">
   <a href="https://github.com/smudesto">
